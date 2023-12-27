@@ -1,5 +1,4 @@
 def main():
-    x = 1
     print("Yulu")
 
 
